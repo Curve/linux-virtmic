@@ -1,3 +1,7 @@
+### 🥳 This Fork has been merged [upstream](https://github.com/Vencord/linux-virtmic)!
+
+---
+
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/113042587" width="150">
